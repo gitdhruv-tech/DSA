@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gitdhruv-tech/DSA/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gitdhruv-tech/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
