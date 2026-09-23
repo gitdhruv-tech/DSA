@@ -1,49 +1,37 @@
 class Solution {
     public String[] findWords(String[] words) {
-         String F1Row = "qwertyuiopQWERTYUIOP";
-        String F2Row = "asdfghjklASDFGHJKL";
-        String F3Row = "zxcvbnmZXCVBNM";
+         int []f = new int[26];
+        String F1 = "qwertyuiop";
+        String F2 = "asdfghjkl";
+        String F3 = "zxcvbnm";
+        String[] ans = new String[words.length];
+        int k = 0;
+        for(int i=0;i<F1.length();i++){
+            f[F1.charAt(i) - 'a'] = 1;
+        }
+        for(int i=0;i<F2.length();i++){
+            f[F2.charAt(i) - 'a'] = 2;
+        }
+        for(int i=0;i<F3.length();i++){
+            f[F3.charAt(i) - 'a'] = 3;
+        }
+        for(String ch : words){
+            String sk = ch.toLowerCase();
+            int r = f[sk.charAt(0) - 'a'];
 
-        ValidRow validRow = new ValidRow();
-        String[] result = new String[0];
+        boolean taken = true;  
+            for(int i=1;i<sk.length();i++){
 
-        int lenofInput = words.length;
-
-        for (int i = 0; i < lenofInput; i++) {
-
-            if (validRow.isSameRow(words[i], F1Row)) {
-                result = ValidRow.append(result, words[i]);
+                if(r != f[sk.charAt(i) - 'a']){
+                    taken = false;
+                    break;
+                }
+                
             }
-            else if (validRow.isSameRow(words[i], F2Row)) {
-                result = ValidRow.append(result, words[i]);
-            }
-            else if (validRow.isSameRow(words[i], F3Row)) {
-                result = ValidRow.append(result, words[i]);
-            }
-            else {
-                continue;
+            if(taken){
+                ans[k++] = ch;
             }
         }
-
-        return result;
-
-    }
-}
-
-class ValidRow {
-
-    public static boolean isSameRow(String word, String row) {
-        for (int i = 0; i < word.length(); i++) {
-            if (!row.contains(String.valueOf(word.charAt(i)))) {
-                return false;
-            }
-        }
-        return true;
-    }
-
-    public static String[] append(String[] arr, String element) {
-        arr = Arrays.copyOf(arr, arr.length + 1);
-        arr[arr.length - 1] = element;
-        return arr;
+        return Arrays.copyOf(ans, k);
     }
 }
