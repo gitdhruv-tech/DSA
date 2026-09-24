@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gitdhruv-tech/DSA/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +45,12 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
