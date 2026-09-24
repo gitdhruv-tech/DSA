@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gitdhruv-tech/DSA/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/gitdhruv-tech/DSA/tree/master/0009-palindrome-number) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
 |  |
 | ------- |
