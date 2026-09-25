@@ -16,10 +16,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/gitdhruv-tech/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/gitdhruv-tech/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
