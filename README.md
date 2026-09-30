@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gitdhruv-tech/DSA/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
+| [1672-richest-customer-wealth](https://github.com/gitdhruv-tech/DSA/tree/master/1672-richest-customer-wealth) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/gitdhruv-tech/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
