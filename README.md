@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitdhruv-tech/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
 | [1672-richest-customer-wealth](https://github.com/gitdhruv-tech/DSA/tree/master/1672-richest-customer-wealth) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitdhruv-tech/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gitdhruv-tech/DSA/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
@@ -60,4 +63,16 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/gitdhruv-tech/DSA/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
