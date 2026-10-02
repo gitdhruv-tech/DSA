@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gitdhruv-tech/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gitdhruv-tech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
 | [1672-richest-customer-wealth](https://github.com/gitdhruv-tech/DSA/tree/master/1672-richest-customer-wealth) |
@@ -34,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gitdhruv-tech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
 ## Math
 |  |
