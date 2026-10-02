@@ -49,6 +49,7 @@
 | [0176-second-highest-salary](https://github.com/gitdhruv-tech/DSA/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/gitdhruv-tech/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/gitdhruv-tech/DSA/tree/master/0184-department-highest-salary) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/gitdhruv-tech/DSA/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Simulation
 |  |
 | ------- |
