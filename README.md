@@ -23,12 +23,14 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/gitdhruv-tech/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/gitdhruv-tech/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gitdhruv-tech/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/gitdhruv-tech/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gitdhruv-tech/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
