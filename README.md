@@ -57,6 +57,7 @@
 | [0176-second-highest-salary](https://github.com/gitdhruv-tech/DSA/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/gitdhruv-tech/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/gitdhruv-tech/DSA/tree/master/0184-department-highest-salary) |
+| [1084-sales-analysis-iii](https://github.com/gitdhruv-tech/DSA/tree/master/1084-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/gitdhruv-tech/DSA/tree/master/1251-average-selling-price) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/gitdhruv-tech/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/gitdhruv-tech/DSA/tree/master/3465-find-products-with-valid-serial-numbers) |
