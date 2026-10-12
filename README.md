@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/gitdhruv-tech/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/gitdhruv-tech/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1672-richest-customer-wealth](https://github.com/gitdhruv-tech/DSA/tree/master/1672-richest-customer-wealth) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gitdhruv-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/gitdhruv-tech/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/gitdhruv-tech/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
