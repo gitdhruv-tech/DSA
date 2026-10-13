@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gitdhruv-tech/DSA/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitdhruv-tech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitdhruv-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gitdhruv-tech/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gitdhruv-tech/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitdhruv-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/gitdhruv-tech/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gitdhruv-tech/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gitdhruv-tech/DSA/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitdhruv-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/gitdhruv-tech/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitdhruv-tech/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
