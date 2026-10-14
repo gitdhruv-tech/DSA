@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gitdhruv-tech/DSA/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gitdhruv-tech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitdhruv-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gitdhruv-tech/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitdhruv-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/gitdhruv-tech/DSA/tree/master/0283-move-zeroes) |
@@ -107,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/gitdhruv-tech/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 ## Trie
