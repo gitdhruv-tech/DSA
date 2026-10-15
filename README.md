@@ -19,6 +19,7 @@
 | [0704-binary-search](https://github.com/gitdhruv-tech/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitdhruv-tech/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gitdhruv-tech/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gitdhruv-tech/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/gitdhruv-tech/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/1512-number-of-good-pairs) |
@@ -73,6 +74,7 @@
 | [0009-palindrome-number](https://github.com/gitdhruv-tech/DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gitdhruv-tech/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
