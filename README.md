@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitdhruv-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/gitdhruv-tech/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/gitdhruv-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/gitdhruv-tech/DSA/tree/master/0704-binary-search) |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/gitdhruv-tech/DSA/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/gitdhruv-tech/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gitdhruv-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitdhruv-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
@@ -60,6 +62,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitdhruv-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/gitdhruv-tech/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gitdhruv-tech/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/gitdhruv-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/gitdhruv-tech/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +137,7 @@
 | [0035-search-insert-position](https://github.com/gitdhruv-tech/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gitdhruv-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gitdhruv-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/gitdhruv-tech/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitdhruv-tech/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitdhruv-tech/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -147,6 +151,7 @@
 | [0088-merge-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/gitdhruv-tech/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gitdhruv-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/gitdhruv-tech/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/gitdhruv-tech/DSA/tree/master/1051-height-checker) |
