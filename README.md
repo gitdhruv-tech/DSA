@@ -33,6 +33,7 @@
 | [1920-build-array-from-permutation](https://github.com/gitdhruv-tech/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gitdhruv-tech/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gitdhruv-tech/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gitdhruv-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -63,6 +64,7 @@
 | [0905-sort-array-by-parity](https://github.com/gitdhruv-tech/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/gitdhruv-tech/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitdhruv-tech/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2460-apply-operations-to-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [1920-build-array-from-permutation](https://github.com/gitdhruv-tech/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gitdhruv-tech/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gitdhruv-tech/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Sliding Window
 |  |
 | ------- |
