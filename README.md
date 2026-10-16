@@ -77,6 +77,7 @@
 | [0344-reverse-string](https://github.com/gitdhruv-tech/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitdhruv-tech/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/gitdhruv-tech/DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/gitdhruv-tech/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/gitdhruv-tech/DSA/tree/master/0709-to-lower-case) |
@@ -94,6 +95,7 @@
 | [0009-palindrome-number](https://github.com/gitdhruv-tech/DSA/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/gitdhruv-tech/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/gitdhruv-tech/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitdhruv-tech/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gitdhruv-tech/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gitdhruv-tech/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/gitdhruv-tech/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/gitdhruv-tech/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gitdhruv-tech/DSA/tree/master/1929-concatenation-of-array) |
