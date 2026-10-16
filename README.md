@@ -123,6 +123,7 @@
 | [0176-second-highest-salary](https://github.com/gitdhruv-tech/DSA/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/gitdhruv-tech/DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/gitdhruv-tech/DSA/tree/master/0184-department-highest-salary) |
+| [1068-product-sales-analysis-i](https://github.com/gitdhruv-tech/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/gitdhruv-tech/DSA/tree/master/1084-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/gitdhruv-tech/DSA/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/gitdhruv-tech/DSA/tree/master/1683-invalid-tweets) |
