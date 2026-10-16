@@ -28,6 +28,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitdhruv-tech/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gitdhruv-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gitdhruv-tech/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gitdhruv-tech/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gitdhruv-tech/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/1512-number-of-good-pairs) |
@@ -179,6 +180,7 @@
 | [1051-height-checker](https://github.com/gitdhruv-tech/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gitdhruv-tech/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gitdhruv-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/gitdhruv-tech/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Trie
 |  |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gitdhruv-tech/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
