@@ -37,6 +37,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gitdhruv-tech/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gitdhruv-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gitdhruv-tech/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gitdhruv-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gitdhruv-tech/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gitdhruv-tech/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gitdhruv-tech/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/1512-number-of-good-pairs) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gitdhruv-tech/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
 |  |
