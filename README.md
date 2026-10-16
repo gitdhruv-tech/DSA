@@ -34,6 +34,7 @@
 | [1920-build-array-from-permutation](https://github.com/gitdhruv-tech/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gitdhruv-tech/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gitdhruv-tech/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/gitdhruv-tech/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gitdhruv-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -86,6 +87,7 @@
 | [1108-defanging-an-ip-address](https://github.com/gitdhruv-tech/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gitdhruv-tech/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/gitdhruv-tech/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
