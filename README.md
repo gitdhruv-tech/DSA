@@ -126,6 +126,7 @@
 | [1068-product-sales-analysis-i](https://github.com/gitdhruv-tech/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1084-sales-analysis-iii](https://github.com/gitdhruv-tech/DSA/tree/master/1084-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/gitdhruv-tech/DSA/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/gitdhruv-tech/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/gitdhruv-tech/DSA/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/gitdhruv-tech/DSA/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/gitdhruv-tech/DSA/tree/master/3465-find-products-with-valid-serial-numbers) |
