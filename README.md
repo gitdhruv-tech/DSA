@@ -36,6 +36,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gitdhruv-tech/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gitdhruv-tech/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2460-apply-operations-to-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gitdhruv-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gitdhruv-tech/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gitdhruv-tech/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -54,6 +55,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gitdhruv-tech/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gitdhruv-tech/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -90,6 +92,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gitdhruv-tech/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/gitdhruv-tech/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 | [1929-concatenation-of-array](https://github.com/gitdhruv-tech/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gitdhruv-tech/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/gitdhruv-tech/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sliding Window
 |  |
 | ------- |
