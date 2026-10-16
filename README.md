@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gitdhruv-tech/DSA/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/gitdhruv-tech/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gitdhruv-tech/DSA/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gitdhruv-tech/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -113,6 +114,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/gitdhruv-tech/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/gitdhruv-tech/DSA/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/gitdhruv-tech/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gitdhruv-tech/DSA/tree/master/1929-concatenation-of-array) |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/gitdhruv-tech/DSA/tree/master/1051-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gitdhruv-tech/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
