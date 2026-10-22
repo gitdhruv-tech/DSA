@@ -18,6 +18,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/gitdhruv-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gitdhruv-tech/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/gitdhruv-tech/DSA/tree/master/0500-keyboard-row) |
+| [0643-maximum-average-subarray-i](https://github.com/gitdhruv-tech/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/gitdhruv-tech/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitdhruv-tech/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/gitdhruv-tech/DSA/tree/master/0905-sort-array-by-parity) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gitdhruv-tech/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/gitdhruv-tech/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gitdhruv-tech/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
